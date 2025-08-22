@@ -1,0 +1,21 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning (optional, if you plan to use neural networks)
+tensorflow
+torch
+transformers
+
+# Text preprocessing
+nltk
+spacy
+
+# Model evaluation
+scikit-plot
+
+# Kaggle API
+kaggle
